@@ -6,7 +6,6 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5391FE?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C#-5391FE?logo=coding&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-5391FE?logo=unity&logoColor=white)
 ## 🎉 Interests
 ![Coding](https://img.shields.io/badge/Coding-FF6F00?logo=python&logoColor=white)
